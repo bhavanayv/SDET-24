@@ -7,5 +7,6 @@ public class Demo1 {
 	public void testDemo1()
 	{
 		System.out.println("HELLO, This is the first time user 1 is using commit");
+		System.out.println("haiiii");
 	}
 }
