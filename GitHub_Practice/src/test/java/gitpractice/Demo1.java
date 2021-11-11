@@ -14,5 +14,8 @@ public class Demo1 {
 		
 		
 		System.out.println("resolved");
+		
+		
+		System.out.println("conflict demo");
 	}
 }
