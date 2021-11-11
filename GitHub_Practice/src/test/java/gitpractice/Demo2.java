@@ -2,7 +2,9 @@ package gitpractice;
 
 import org.testng.annotations.Test;
 
-public class Demo1 {
+public class Demo2 {
+
+public class testDemo2 {
 	@Test
 	public void testDemo1()
 	{
@@ -10,9 +12,7 @@ public class Demo1 {
 		System.out.println("haiiii");
 		
 		
-		System.out.println("conflict  1");
-		
-		
-		System.out.println("resolved");
+		System.out.println("conflict  2");
 	}
+}
 }
